@@ -1,0 +1,1 @@
+C:\Users\Dodo\Source\Repos\c-sharp-linkedlist-dojo-szdodo\LinkedList\obj\Debug\LinkedList.csprojResolveAssemblyReference.cache
